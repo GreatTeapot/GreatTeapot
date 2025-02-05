@@ -3,7 +3,7 @@
 <body style="font-family: FiraCode,sans-serif; font-size: 22px">
 <br>
     <div align="center" style="font-size:35px">
-        <img src="asserts/sky.jpg" alt="none"/>
+        <img src="asserts/img.png" alt="none"/>
         <br>
     </div>
 <br>
