@@ -11,7 +11,7 @@
         <br>
         <div align="center">
             <a href="https://github.com/C3EQUALZz">
-                <img src="https://skillicons.dev/icons?i=python,pycharm,fastapi,django,selenium,postgres,mysql,mongodb,sqlite,nginx,gitlab,git,obsidian,postman,stackoverflow	,arch,redis,rabbitmq,cloudflare,linux,bash,aws,googlecloud,docker," alt="Skills Icons" style="max-width: 100%; height: 100%;">
+                <img src="https://skillicons.dev/icons?i=python,pycharm,fastapi,django,selenium,postman,arch,redis,rabbitmq,cloudflare,linux,bash,aws,googlecloud,docker," alt="Skills Icons" style="max-width: 100%; height: 100%;">
             </a>
         </div>
     </div>
