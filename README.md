@@ -12,8 +12,8 @@
         <h2 align="center">~ 📇 Knowledge and Skills 📇 ~</h2>
         <br>
         <div align="center">
-            <a href="https://github.com/C3EQUALZz">
-                <img src="https://skillicons.dev/icons?i=python,pycharm,fastapi,django,postgres,mysql,mongodb,sqlite,nginx,gitlab,git,obsidian,postman,arch,redis,rabbitmq,cloudflare,linux,aws,googlecloud,docker," alt="Skills Icons" style="max-width: 100%; height: 100%;">
+            <a href="https://github.com/GreatTeapot">
+                <img src="https://skillicons.dev/icons?i=python,pycharm,fastapi,django,postgres,mysql,mongodb,sqlite,nginx,gitlab,git,obsidian,postman,arch,redis,rabbitmq,linux,aws,googlecloud,docker," alt="Skills Icons" style="max-width: 100%; height: 100%;">
             </a>
         </div>
     </div>
